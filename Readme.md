@@ -1,0 +1,1 @@
+Esse repositório te ensina a manipular o Git!
